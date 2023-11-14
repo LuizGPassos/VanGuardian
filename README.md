@@ -19,7 +19,8 @@ VanGuardian is an innovative software solution designed to elevate the security 
 ## Getting Started:
 
 ### Prerequisites:
-   - Ensure the installation of the required dependencies: `cv2`, `ultralytics`, `PIL`, `pytesseract`, `pandas`, and `numpy`.
+   -Tesseract
+   -Also ensure the installation of the required dependencies: `cv2`, `ultralytics`, `PIL`, `pytesseract`, `pandas`, and `numpy`.
 
 ### Usage:
    1. Load pre-trained YOLO models for vans, license plates, and prefixes.
