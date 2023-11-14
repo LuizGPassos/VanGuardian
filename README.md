@@ -1,4 +1,3 @@
-# VanGuardian
 # VanGuardian: School Vehicle Security and Management
 
 VanGuardian is an innovative software solution designed to elevate the security and streamline the management of school vehicles, offering a robust system that integrates computer vision and neural networks. The project focuses on real-time detection, identification, and verification of school vans, license plates, and specific decals known as prefixes.
