@@ -30,7 +30,7 @@ python main.py
 ```
 ## Project Background:
 
-This project serves as the capstone for the completion of the Bachelor's degree in Computer Science by [Your Name]. It showcases the practical application of computer vision and neural networks in addressing real-world challenges, specifically in the domain of school vehicle security and management.
+This project serves as the capstone for the completion of the Bachelor's degree in Computer Science. It showcases the practical application of computer vision and neural networks in addressing real-world challenges, specifically in the domain of school vehicle security and management.
 
 ## Performance Metrics:
 
